@@ -59,7 +59,10 @@ This is the official repository for the competition. Follow the instructions bel
 
 ## ❓ Need Help?
 If you have any questions, open an issue or reach out to the organizers.
-
 ---
+
+## Organizer
+- KS Tan
+- Jack
 
 Happy coding! 🚀
