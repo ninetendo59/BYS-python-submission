@@ -1,6 +1,6 @@
-# BYS-python-submission
+# hackathon-template
 
-## 🏆 Thank you for joining Beyondsoft internal python scripting!
+## 🏆 Thank you for joining hackathon template!
 
 This is the official repository for the competition. Follow the instructions below to participate.
 
@@ -33,19 +33,23 @@ This is the official repository for the competition. Follow the instructions bel
    - Go to your forked repository on GitHub.
    - Click on "Compare & pull request."
    - Add a brief description and submit your PR.
-   
+9. **Wait and see the magic**
+   - Wait for the organizer to merge the repo so that you able to see your submitted work.
+   - You will able to see the changes after submission deadline.
+### Sidenote
+- do not modify anything that already exsited 
+
 ---
 
 ## 📜 Rules
-- variable naming and comments must be readable
-- User input and program output and make sense
-- Must use arithmetic operation (`+` `-` `*` `/` `%` and any relevant)
-- Must use neither `while`/`for` loop, or `if`/`else` statement. If possible, use switch statement
+- nothing
 - The deadline for submissions is **1 March 2025**.
-- If anyone develop the same program must recreate another new program to present
-- Failure of submission on time must contribute ***RM5.00*** for the reward later
-
 ---
+
+## Checklist test
+- Your mark down file content must contain this checklist
+- [ ] Mark 1
+- [ ] Mark 2
 
 ## 🔥 Evaluation Criteria
 - **Readability and comments**
@@ -62,7 +66,6 @@ If you have any questions, open an issue or reach out to the organizers.
 ---
 
 ## Organizer
-- KS Tan
-- Jack
+- This is merely for testing repo
 
 Happy coding! 🚀
